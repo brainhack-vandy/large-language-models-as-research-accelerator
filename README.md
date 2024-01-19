@@ -1,4 +1,3 @@
-# large-language-models-as-research-accelerator
 # Large Language Models as a Research Accelerator: AI-Assisted Programming for Neuroscience
 
 ## Description
