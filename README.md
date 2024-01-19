@@ -8,13 +8,11 @@ With the recent success of large language models (LLMs) such as ChatGPT, mastery
 
 ### Dependencies
 
-**those with a VUNetID can access ChatGPT at https://www.vanderbilt.ai**
-
-**Otherwise, please create a [ChatGPT](www.chat.openai.com) account (comes with free trial), Microsoft Edge account (access only with Edge browser), or use another LLM of your choice.**
-
 You will need the following framework to run this notebook:
 
-- LLM account of your choice (see above)
+- LLM account of your choice
+    - Those with a VUNetID can access ChatGPT at https://www.vanderbilt.ai
+    - Otherwise, please create a [ChatGPT](www.chat.openai.com) account (comes with free trial), Microsoft Edge account (access only with Edge browser), or use another LLM of your choice.
 - Python 3.9
 - Jupyter Notebook
 - Python libraries: numpy, nilearn, matplotlib, sklearn
