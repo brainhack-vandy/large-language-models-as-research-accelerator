@@ -23,7 +23,9 @@ You will need the following framework to run this notebook:
 
 Example:
 
-$ git clone [git@github.com:brainhack101/exploratory-data-analysis.git](https://github.com/brainhack-vandy/large-language-models-as-research-accelerator.git)
+```
+$ git clone https://github.com/brainhack-vandy/large-language-models-as-research-accelerator.git
 $ cd large-language-models-as-research-accelerator
 $ pip install jupyter numpy scikit-learn nilearn matplotlib
 $ jupyter-notebook
+```
